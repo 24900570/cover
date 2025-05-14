@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date: 08.12.2024
+## Date: 14-05-2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -115,17 +115,17 @@ Publish the website in the LocalHost.
     <div class="cover">
         <div class="cover-header">
             <div class="title">Sapiens</div>
-            <div class="subtitle">A Brief History of Humankind</div>
+            <div class="subtitle">A Brief History of Humankind </div>
         
         </div>
 
         <div class="graphic">
-            <img src="my photo.jpg" alt="Code Illustration" style="width: 50%; border-radius: 3px;">
+            <img src="photo.jpeg" alt="Code Illustration" style="width: 50%; border-radius: 3px;">
         </div>
         <div class="line"></div>
         <div class="cover-footer">
             <div class="author">Yuval Noah Harari</div>
-            <div class="tagline">"A thought-provoking journey through human history, exploring how biology, culture, and technology shaped humanity and our world."</div>
+            <div class="tagline">"A thought-provoking journey through human history, exploring how biology, culture, and technology shaped humanity and our world." </div>
         </div>
     </div>
 </body>
@@ -133,7 +133,8 @@ Publish the website in the LocalHost.
 '''
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-08 230752.png>)
+
+![alt text](<Screenshot 2025-05-14 215535.png>)
 
 
 ## RESULT:
